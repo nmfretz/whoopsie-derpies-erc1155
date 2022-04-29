@@ -1,0 +1,20 @@
+{
+  "name": "flamingo",
+  "description": "Frank consistently skips leg day.",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/4.png",
+  "background_color": "c2ffed",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "flamingo"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "frank"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 3
+    }
+  ]
+}

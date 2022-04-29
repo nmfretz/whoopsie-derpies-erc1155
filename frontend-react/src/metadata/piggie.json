@@ -1,0 +1,20 @@
+{
+  "name": "piggie",
+  "description": "Patrice is stinky but lovable.",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/15.png",
+  "background_color": "ffc2cc",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "pig"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "patrice"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 8
+    }
+  ]
+}

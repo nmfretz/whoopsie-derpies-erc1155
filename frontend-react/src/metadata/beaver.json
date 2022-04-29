@@ -1,0 +1,20 @@
+{
+  "name": "beaver",
+  "description": "Carl loves to slap. Slap slap slap!",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/0.png",
+  "background_color": "ffc2cc",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "beaver"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "carl"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 4
+    }
+  ]
+}

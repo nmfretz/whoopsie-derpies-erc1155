@@ -1,0 +1,20 @@
+{
+  "name": "hedgie",
+  "description": "Hank has never received a hug, and yet is happy.",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/7.png",
+  "background_color": "c2ffff",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "hedgehog"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "hank"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "elephant",
+  "description": "Elrond is very self-conscious about his tusk size.",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/3.png",
+  "background_color": "ffc2f7",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "elephant"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "elrond"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 8
+    }
+  ]
+}

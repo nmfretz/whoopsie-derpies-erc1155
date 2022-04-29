@@ -1,0 +1,20 @@
+{
+  "name": "fox",
+  "description": "Ferdinand is a good fluffy boy.",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/5.png",
+  "background_color": "ffc2cc",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "fox"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "ferdinand"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 2
+    }
+  ]
+}

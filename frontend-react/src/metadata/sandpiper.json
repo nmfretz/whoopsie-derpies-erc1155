@@ -1,0 +1,20 @@
+{
+  "name": "sandpiper",
+  "description": "Soren's cousin's neighbour starred in the Pixar film Piper.",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/17.png",
+  "background_color": "c2ffff",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "sandpiper"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "soren"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "narwhal",
+  "description": "Norbert wiggles when he swims.",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/12.png",
+  "background_color": "c2ffff",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "narwhal"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "norbert"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 4
+    }
+  ]
+}

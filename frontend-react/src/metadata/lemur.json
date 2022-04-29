@@ -1,0 +1,20 @@
+{
+  "name": "lemur",
+  "description": "Lerkin has witnessed something terrible.",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/10.png",
+  "background_color": "ffc2cc",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "lemur"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "lerkin"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 7
+    }
+  ]
+}

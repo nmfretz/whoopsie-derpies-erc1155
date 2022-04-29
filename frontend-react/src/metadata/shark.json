@@ -1,0 +1,20 @@
+{
+  "name": "shark",
+  "description": "Brian has fish that are friends AND food!",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/18.png",
+  "background_color": "ffc2f7",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "hammerhead shark"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "brian"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 7
+    }
+  ]
+}

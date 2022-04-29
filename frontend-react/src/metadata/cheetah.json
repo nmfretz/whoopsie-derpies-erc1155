@@ -1,0 +1,20 @@
+{
+  "name": "cheetah",
+  "description": "Charlie is nimble, agile, and perpetually unimpressed.",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/2.png",
+  "background_color": "c2ffff",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "cheetah"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "charlie"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 11
+    }
+  ]
+}

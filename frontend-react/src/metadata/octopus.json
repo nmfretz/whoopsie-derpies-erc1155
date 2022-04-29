@@ -1,0 +1,20 @@
+{
+  "name": "octopus",
+  "description": "Sean has ARMS not TENTACLES.",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/13.png",
+  "background_color": "ffc2f7",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "octopus"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "sean"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "orca",
+  "description": "Kenneth feels misunderstood. He is not a killer.",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/14.png",
+  "background_color": "c2ffed",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "orca"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "kenneth"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 3
+    }
+  ]
+}

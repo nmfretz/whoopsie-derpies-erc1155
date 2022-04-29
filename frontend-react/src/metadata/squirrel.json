@@ -1,0 +1,20 @@
+{
+  "name": "squirrel",
+  "description": "Timber can't remember where he hid his nuts :(",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/19.png",
+  "background_color": "c2ffed",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "squirrel"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "timber"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 6
+    }
+  ]
+}

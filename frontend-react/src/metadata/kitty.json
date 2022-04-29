@@ -1,0 +1,20 @@
+{
+  "name": "kitty",
+  "description": "Bob is a cat. He's a kitty cat. And he dance dance dance and he dance dance dance.",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/9.png",
+  "background_color": "c2ffed",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "cat"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "bob"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 3
+    }
+  ]
+}

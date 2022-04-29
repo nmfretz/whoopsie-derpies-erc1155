@@ -1,0 +1,20 @@
+{
+  "name": "horsie",
+  "description": "Horses are hard to draw.",
+  "image": "ipfs://QmZtXgn57Pzi9D9NFxPAkj1Se4HA9thZQTiUGVUxqeJffU/8.png",
+  "background_color": "ffc2f7",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "horse"
+    },
+    {
+      "trait_type": "preferred name",
+      "value": "harold"
+    },
+    {
+      "trait_type": "derpiness",
+      "value": 8
+    }
+  ]
+}
