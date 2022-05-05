@@ -8,10 +8,15 @@ const About = ({ setSelectedTab }) => {
     document.documentElement.scrollTop = 0; // Chrome, Firefox, IE, Opera
   }
 
+  function galleryPageHandler() {
+    setSelectedTab("Gallery");
+    document.body.scrollTop = 0; // Safari
+    document.documentElement.scrollTop = 0; // Chrome, Firefox, IE, Opera
+  }
+
   return (
     <div className="background">
       <section className="section has-text-centered pt-3 pb-0 container">
-        {/* <h1 className="shizuru pb-5">ABOUT</h1> */}
         <h1 className="shizuru pb-5">WHOOPSIE DERPIES</h1>
 
         <h2 className="subtitle pb-6 mb-0 custom-smaller-padding-mobile custom-smaller-mobile-text">
@@ -29,6 +34,12 @@ const About = ({ setSelectedTab }) => {
 
       <section className="section">
         <div className="is-flex is-justify-content-center is-align-items-center is-flex-wrap-wrap">
+          <div className="notification is-danger has-text-centered">
+            OpenSea is currently having issues with their metadata refresh feature, so Whoopsie Derpies metadata will be
+            delayed on OpenSea. We have been told that this issue is currently being resolved. Your Derpies will still
+            show in the <a onClick={galleryPageHandler}>Gallery</a> and on other platforms such as Rarible.
+          </div>
+
           <div>
             <figure className="image custom-about-img is-hidden-mobile">
               <img src={derpieInfo[2].image} alt="" />
@@ -74,7 +85,7 @@ const About = ({ setSelectedTab }) => {
             </ul>
             <p className="custom-smaller-mobile-text">
               View the entire project code at this
-              <a href="https://github.com/nmfretz" target="_blank" rel="noreferrer">
+              <a href="https://github.com/nmfretz/whoopsie-derpies-erc1155" target="_blank" rel="noreferrer">
                 {" "}
                 github repository.
               </a>{" "}
