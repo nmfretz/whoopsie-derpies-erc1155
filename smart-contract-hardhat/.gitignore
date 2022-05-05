@@ -10,3 +10,9 @@ artifacts
 
 TODO.md
 NOTES.md
+
+#gas golfing files
+WhoopsieDerpiesHighGas.sol
+WhoopsieDerpiesIntermediateGas.sol
+WhoopsieDerpiesLowGas.sol
+test_gasComparison.js
