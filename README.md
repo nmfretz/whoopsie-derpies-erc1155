@@ -64,9 +64,8 @@ View minted Derpies collection at https://opensea.io/collection/whoopsiederpies.
 <br />
 <br />
 <kbd>
-
+<br />
+<br />
 <kbd> 
 <img src="https://user-images.githubusercontent.com/85373263/166078336-94fcb310-bf29-461d-8a49-e78293ffad85.png"/>
 </kbd>
-<br />
-<br />
